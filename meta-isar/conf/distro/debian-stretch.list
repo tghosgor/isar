@@ -1,3 +1,4 @@
 deb	http://ftp.de.debian.org/debian stretch	main contrib non-free
 deb	http://ftp.de.debian.org/debian stretch-updates	main contrib non-free
-deb	http://security.debian.org	stretch/updates	main contrib non-free
+deb  [trusted=yes] http://yssyq.m.ilbers.de/w/linaro-overlay-stretch/Debian_9.0-std stretch main
+#deb	http://security.debian.org	stretch/updates	main contrib non-free
