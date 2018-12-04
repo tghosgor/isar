@@ -1,3 +1,4 @@
+deb	https://debian.inf.tu-dresden.de/debian jessie	main contrib non-free
 deb	http://ftp.de.debian.org/debian	jessie	main contrib non-free
 deb	http://ftp.de.debian.org/debian jessie-updates	main contrib non-free
 deb	http://security.debian.org	jessie/updates	main contrib non-free
