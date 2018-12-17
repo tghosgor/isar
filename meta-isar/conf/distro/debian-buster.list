@@ -1,3 +1,4 @@
+deb-src	http://ftp.de.debian.org/debian buster	main contrib non-free
 deb	http://ftp.de.debian.org/debian buster	main contrib non-free
 deb	https://debian.inf.tu-dresden.de/debian buster	main contrib non-free
 deb	http://ftp.de.debian.org/debian buster-updates	main contrib non-free
